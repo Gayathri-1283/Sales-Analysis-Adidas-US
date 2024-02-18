@@ -1,0 +1,108 @@
+State,SalesMethod,state_code,TotalSales
+Alabama,Online,AL,441556.0
+Alabama,Outlet,AL,17191868.0
+Alaska,Online,AK,372353.0
+Alaska,Outlet,AK,14380750.000000002
+Arizona,Online,AZ,15425512.000000002
+Arizona,Outlet,AZ,356709.0
+Arkansas,Online,AR,12354982.000000002
+Arkansas,Outlet,AR,284365.0
+California,Online,CA,1488745.0
+California,Outlet,CA,58685388.0
+Colorado,In-store,CO,20475000.0
+Colorado,Online,CO,521536.0
+Connecticut,In-store,CT,11030000.0
+Connecticut,Online,CT,283996.0
+Connecticut,Outlet,CT,259452.0
+Delaware,In-store,DE,11988750.0
+Delaware,Online,DE,309662.0
+Florida,In-store,FL,51805000.00000001
+Florida,Online,FL,1475814.0
+Florida,Outlet,FL,6002900.0
+Georgia,Online,GA,18575819.0
+Georgia,Outlet,GA,421647.0
+Hawaii,Online,HI,562457.0
+Hawaii,Outlet,HI,21720000.0
+Idaho,Online,ID,18840711.0
+Idaho,Outlet,ID,436167.0
+Illinois,Online,IL,249238.0
+Illinois,Outlet,IL,9548250.0
+Indiana,In-store,IN,8612750.0
+Indiana,Online,IN,223448.0
+Iowa,In-store,IA,7238000.0
+Iowa,Online,IA,186011.0
+Kansas,Online,KS,9972864.0
+Kentucky,Online,KY,10072848.0
+Louisiana,In-store,LA,3393750.0
+Louisiana,Online,LA,19837823.000000004
+Louisiana,Outlet,LA,519208.0
+Maine,Online,ME,233478.0
+Maine,Outlet,ME,8962500.0
+Maryland,In-store,MD,7563250.0
+Maryland,Online,MD,194809.0
+Massachusetts,In-store,MA,10553750.0
+Massachusetts,Online,MA,276156.0
+Massachusetts,Outlet,MA,246904.0
+Michigan,In-store,MI,18153500.0
+Michigan,Online,MI,471933.0
+Minnesota,In-store,MN,1838000.0
+Minnesota,Online,MN,184568.0
+Minnesota,Outlet,MN,5355500.0
+Mississippi,Online,MS,15240524.000000002
+Mississippi,Outlet,MS,351185.0
+Missouri,In-store,MO,9437500.0
+Missouri,Online,MO,245765.0
+Montana,Online,MT,399636.0
+Montana,Outlet,MT,15311250.0
+Nebraska,Online,NE,151038.0
+Nebraska,Outlet,NE,5778000.0
+Nevada,In-store,NV,11558750.000000002
+Nevada,Online,NV,521605.0
+Nevada,Outlet,NV,8778154.0
+New Hampshire,In-store,NH,5621750.0
+New Hampshire,Online,NH,409523.0
+New Hampshire,Outlet,NH,10380394.000000002
+New Jersey,In-store,NJ,9682000.0
+New Jersey,Online,NJ,252246.0
+New Mexico,Online,NM,19424023.000000004
+New Mexico,Outlet,NM,440993.0
+New York,In-store,NY,27362500.000000004
+New York,Online,NY,1589175.0
+New York,Outlet,NY,35277364.0
+North Carolina,Online,NC,23956531.0
+North Dakota,In-store,ND,6742500.0
+North Dakota,Online,ND,993080.0000000001
+Ohio,Online,OH,18484583.0
+Oklahoma,Online,OK,10378110.0
+Oklahoma,Outlet,OK,242624.0
+Oregon,In-store,OR,20336250.0
+Oregon,Online,OR,530442.0
+Oregon,Outlet,OR,482982.0
+Pennsylvania,Online,PA,255450.0
+Pennsylvania,Outlet,PA,10102069.0
+Rhode Island,In-store,RI,8049500.0
+Rhode Island,Online,RI,206620.0
+Rhode Island,Outlet,RI,190686.0
+South Carolina,Online,SC,29285637.000000004
+South Dakota,Online,SD,8495576.0
+Tennessee,Online,TN,442361.0
+Tennessee,Outlet,TN,17625079.0
+Texas,Online,TX,1143479.0
+Texas,Outlet,TX,45216267.0
+Utah,In-store,UT,9232000.000000002
+Utah,Online,UT,239982.0
+Utah,Outlet,UT,224438.0
+Vermont,In-store,VT,13679250.0
+Vermont,Online,VT,346502.0
+Vermont,Outlet,VT,327171.0
+Virginia,In-store,VA,20556250.0
+Virginia,Online,VA,533561.0
+Virginia,Outlet,VA,485229.0
+Washington,In-store,WA,25676250.000000004
+Washington,Online,WA,654468.0
+West Virginia,In-store,WV,10420000.0
+West Virginia,Online,WV,269160.0
+Wisconsin,In-store,WI,7531750.0
+Wisconsin,Online,WI,195719.0
+Wyoming,In-store,WY,18105750.0
+Wyoming,Online,WY,471767.0
