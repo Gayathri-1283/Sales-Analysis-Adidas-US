@@ -1,0 +1,14 @@
+Python-Streamlit Dashoard:Analysing Adidas Sales
+logo and name
+
+data cleaning
+
+time factor...black friday??
+gender based Analysis
+Insights of each plots
+
+
+prediction
+    for each retailers
+
+    
