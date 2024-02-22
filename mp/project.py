@@ -20,7 +20,7 @@ st.markdown('<style>div.block-container{padding-top:2rem;}</style>',unsafe_allow
     
 def Home():
     
-    df =pd.read_excel("\\mp\\new adidas.xlsx")
+    df =pd.read_excel("mp\new adidas.xlsx")
 
 
     col1, col2 = st.columns((2))
