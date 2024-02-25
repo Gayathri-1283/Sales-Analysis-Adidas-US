@@ -1,0 +1,301 @@
+State,Product,state_code,UnitsSold
+Alabama,Men's Apparel,AL,87995
+Alabama,Men's Athletic Footwear,AL,64614
+Alabama,Men's Street Footwear,AL,82829
+Alabama,Women's Apparel,AL,74203
+Alabama,Women's Athletic Footwear,AL,64130
+Alabama,Women's Street Footwear,AL,59977
+Alaska,Men's Apparel,AK,47182
+Alaska,Men's Athletic Footwear,AK,31073
+Alaska,Men's Street Footwear,AK,47705
+Alaska,Women's Apparel,AK,46701
+Alaska,Women's Athletic Footwear,AK,47071
+Alaska,Women's Street Footwear,AK,25352
+Arizona,Men's Apparel,AZ,54736
+Arizona,Men's Athletic Footwear,AZ,55986
+Arizona,Men's Street Footwear,AZ,43263
+Arizona,Women's Apparel,AZ,45147
+Arizona,Women's Athletic Footwear,AZ,34643
+Arizona,Women's Street Footwear,AZ,45061
+Arkansas,Men's Apparel,AR,66050
+Arkansas,Men's Athletic Footwear,AR,67976
+Arkansas,Men's Street Footwear,AR,81426
+Arkansas,Women's Apparel,AR,77375
+Arkansas,Women's Athletic Footwear,AR,49200
+Arkansas,Women's Street Footwear,AR,68526
+California,Men's Apparel,CA,52722
+California,Men's Athletic Footwear,CA,74496
+California,Men's Street Footwear,CA,77241
+California,Women's Apparel,CA,72611
+California,Women's Athletic Footwear,CA,53591
+California,Women's Street Footwear,CA,70752
+Colorado,Men's Apparel,CO,40662
+Colorado,Men's Athletic Footwear,CO,35596
+Colorado,Men's Street Footwear,CO,34824
+Colorado,Women's Apparel,CO,44108
+Colorado,Women's Athletic Footwear,CO,44933
+Colorado,Women's Street Footwear,CO,39775
+Connecticut,Men's Apparel,CT,53217
+Connecticut,Men's Athletic Footwear,CT,45668
+Connecticut,Men's Street Footwear,CT,46143
+Connecticut,Women's Apparel,CT,44348
+Connecticut,Women's Athletic Footwear,CT,47565
+Connecticut,Women's Street Footwear,CT,39776
+Delaware,Men's Apparel,DE,47471
+Delaware,Men's Athletic Footwear,DE,42148
+Delaware,Men's Street Footwear,DE,34148
+Delaware,Women's Apparel,DE,44601
+Delaware,Women's Athletic Footwear,DE,42752
+Delaware,Women's Street Footwear,DE,47113
+Florida,Men's Apparel,FL,88975
+Florida,Men's Athletic Footwear,FL,91638
+Florida,Men's Street Footwear,FL,105585
+Florida,Women's Apparel,FL,96064
+Florida,Women's Athletic Footwear,FL,89371
+Florida,Women's Street Footwear,FL,103745
+Georgia,Men's Apparel,GA,62843
+Georgia,Men's Athletic Footwear,GA,90677
+Georgia,Men's Street Footwear,GA,95895
+Georgia,Women's Apparel,GA,101679
+Georgia,Women's Athletic Footwear,GA,85911
+Georgia,Women's Street Footwear,GA,74609
+Hawaii,Men's Apparel,HI,40585
+Hawaii,Men's Athletic Footwear,HI,58490
+Hawaii,Men's Street Footwear,HI,35753
+Hawaii,Women's Apparel,HI,50964
+Hawaii,Women's Athletic Footwear,HI,42528
+Hawaii,Women's Street Footwear,HI,45422
+Idaho,Men's Apparel,ID,30291
+Idaho,Men's Athletic Footwear,ID,57784
+Idaho,Men's Street Footwear,ID,56188
+Idaho,Women's Apparel,ID,49559
+Idaho,Women's Athletic Footwear,ID,46481
+Idaho,Women's Street Footwear,ID,46159
+Illinois,Men's Apparel,IL,40924
+Illinois,Men's Athletic Footwear,IL,49363
+Illinois,Men's Street Footwear,IL,53044
+Illinois,Women's Apparel,IL,32815
+Illinois,Women's Athletic Footwear,IL,34579
+Illinois,Women's Street Footwear,IL,48142
+Indiana,Men's Apparel,IN,31018
+Indiana,Men's Athletic Footwear,IN,57351
+Indiana,Men's Street Footwear,IN,31135
+Indiana,Women's Apparel,IN,36908
+Indiana,Women's Athletic Footwear,IN,47086
+Indiana,Women's Street Footwear,IN,40158
+Iowa,Men's Apparel,IA,33004
+Iowa,Men's Athletic Footwear,IA,44959
+Iowa,Men's Street Footwear,IA,48740
+Iowa,Women's Apparel,IA,38827
+Iowa,Women's Athletic Footwear,IA,38974
+Iowa,Women's Street Footwear,IA,34401
+Kansas,Men's Apparel,KS,40975
+Kansas,Men's Athletic Footwear,KS,37949
+Kansas,Men's Street Footwear,KS,34703
+Kansas,Women's Apparel,KS,52756
+Kansas,Women's Athletic Footwear,KS,40194
+Kansas,Women's Street Footwear,KS,30662
+Kentucky,Men's Apparel,KY,67162
+Kentucky,Men's Athletic Footwear,KY,71832
+Kentucky,Men's Street Footwear,KY,100573
+Kentucky,Women's Apparel,KY,88606
+Kentucky,Women's Athletic Footwear,KY,88442
+Kentucky,Women's Street Footwear,KY,87973
+Louisiana,Men's Apparel,LA,89420
+Louisiana,Men's Athletic Footwear,LA,58277
+Louisiana,Men's Street Footwear,LA,83955
+Louisiana,Women's Apparel,LA,61644
+Louisiana,Women's Athletic Footwear,LA,60716
+Louisiana,Women's Street Footwear,LA,74364
+Maine,Men's Apparel,ME,31079
+Maine,Men's Athletic Footwear,ME,44848
+Maine,Men's Street Footwear,ME,53785
+Maine,Women's Apparel,ME,34158
+Maine,Women's Athletic Footwear,ME,44229
+Maine,Women's Street Footwear,ME,24904
+Maryland,Men's Apparel,MD,47570
+Maryland,Men's Athletic Footwear,MD,39864
+Maryland,Men's Street Footwear,MD,37389
+Maryland,Women's Apparel,MD,45932
+Maryland,Women's Athletic Footwear,MD,44095
+Maryland,Women's Street Footwear,MD,50121
+Massachusetts,Men's Apparel,MA,51063
+Massachusetts,Men's Athletic Footwear,MA,31611
+Massachusetts,Men's Street Footwear,MA,60207
+Massachusetts,Women's Apparel,MA,52156
+Massachusetts,Women's Athletic Footwear,MA,45185
+Massachusetts,Women's Street Footwear,MA,32847
+Michigan,Men's Apparel,MI,44691
+Michigan,Men's Athletic Footwear,MI,52999
+Michigan,Men's Street Footwear,MI,36814
+Michigan,Women's Apparel,MI,46040
+Michigan,Women's Athletic Footwear,MI,48373
+Michigan,Women's Street Footwear,MI,31631
+Minnesota,Men's Apparel,MN,34224
+Minnesota,Men's Athletic Footwear,MN,50090
+Minnesota,Men's Street Footwear,MN,54551
+Minnesota,Women's Apparel,MN,41196
+Minnesota,Women's Athletic Footwear,MN,37977
+Minnesota,Women's Street Footwear,MN,34732
+Mississippi,Men's Apparel,MS,61101
+Mississippi,Men's Athletic Footwear,MS,60130
+Mississippi,Men's Street Footwear,MS,82793
+Mississippi,Women's Apparel,MS,86809
+Mississippi,Women's Athletic Footwear,MS,84381
+Mississippi,Women's Street Footwear,MS,83065
+Missouri,Men's Apparel,MO,48825
+Missouri,Men's Athletic Footwear,MO,35391
+Missouri,Men's Street Footwear,MO,35249
+Missouri,Women's Apparel,MO,32139
+Missouri,Women's Athletic Footwear,MO,35807
+Missouri,Women's Street Footwear,MO,41050
+Montana,Men's Apparel,MT,46285
+Montana,Men's Athletic Footwear,MT,47590
+Montana,Men's Street Footwear,MT,38877
+Montana,Women's Apparel,MT,47148
+Montana,Women's Athletic Footwear,MT,46055
+Montana,Women's Street Footwear,MT,29609
+Nebraska,Men's Apparel,NE,43601
+Nebraska,Men's Athletic Footwear,NE,34788
+Nebraska,Men's Street Footwear,NE,36438
+Nebraska,Women's Apparel,NE,40179
+Nebraska,Women's Athletic Footwear,NE,35598
+Nebraska,Women's Street Footwear,NE,43799
+Nevada,Men's Apparel,NV,37242
+Nevada,Men's Athletic Footwear,NV,63685
+Nevada,Men's Street Footwear,NV,49979
+Nevada,Women's Apparel,NV,50407
+Nevada,Women's Athletic Footwear,NV,46618
+Nevada,Women's Street Footwear,NV,37782
+New Hampshire,Men's Apparel,NH,42388
+New Hampshire,Men's Athletic Footwear,NH,49941
+New Hampshire,Men's Street Footwear,NH,57090
+New Hampshire,Women's Apparel,NH,40501
+New Hampshire,Women's Athletic Footwear,NH,49836
+New Hampshire,Women's Street Footwear,NH,49976
+New Jersey,Men's Apparel,NJ,47678
+New Jersey,Men's Athletic Footwear,NJ,41317
+New Jersey,Men's Street Footwear,NJ,39347
+New Jersey,Women's Apparel,NJ,46924
+New Jersey,Women's Athletic Footwear,NJ,55165
+New Jersey,Women's Street Footwear,NJ,48663
+New Mexico,Men's Apparel,NM,44234
+New Mexico,Men's Athletic Footwear,NM,39193
+New Mexico,Men's Street Footwear,NM,43523
+New Mexico,Women's Apparel,NM,37648
+New Mexico,Women's Athletic Footwear,NM,51091
+New Mexico,Women's Street Footwear,NM,58385
+New York,Men's Apparel,NY,42675
+New York,Men's Athletic Footwear,NY,60269
+New York,Men's Street Footwear,NY,75709
+New York,Women's Apparel,NY,67554
+New York,Women's Athletic Footwear,NY,56014
+New York,Women's Street Footwear,NY,60840
+North Carolina,Men's Apparel,NC,87642
+North Carolina,Men's Athletic Footwear,NC,80768
+North Carolina,Men's Street Footwear,NC,94441
+North Carolina,Women's Apparel,NC,74483
+North Carolina,Women's Athletic Footwear,NC,77463
+North Carolina,Women's Street Footwear,NC,78111
+North Dakota,Men's Apparel,ND,34413
+North Dakota,Men's Athletic Footwear,ND,43067
+North Dakota,Men's Street Footwear,ND,62207
+North Dakota,Women's Apparel,ND,38537
+North Dakota,Women's Athletic Footwear,ND,42978
+North Dakota,Women's Street Footwear,ND,34075
+Ohio,Men's Apparel,OH,58480
+Ohio,Men's Athletic Footwear,OH,42961
+Ohio,Men's Street Footwear,OH,48590
+Ohio,Women's Apparel,OH,60722
+Ohio,Women's Athletic Footwear,OH,57920
+Ohio,Women's Street Footwear,OH,35005
+Oklahoma,Men's Apparel,OK,80572
+Oklahoma,Men's Athletic Footwear,OK,92215
+Oklahoma,Men's Street Footwear,OK,81472
+Oklahoma,Women's Apparel,OK,53029
+Oklahoma,Women's Athletic Footwear,OK,74570
+Oklahoma,Women's Street Footwear,OK,58122
+Oregon,Men's Apparel,OR,36251
+Oregon,Men's Athletic Footwear,OR,46194
+Oregon,Men's Street Footwear,OR,48689
+Oregon,Women's Apparel,OR,55228
+Oregon,Women's Athletic Footwear,OR,44107
+Oregon,Women's Street Footwear,OR,38302
+Pennsylvania,Men's Apparel,PA,36742
+Pennsylvania,Men's Athletic Footwear,PA,36968
+Pennsylvania,Men's Street Footwear,PA,39161
+Pennsylvania,Women's Apparel,PA,45457
+Pennsylvania,Women's Athletic Footwear,PA,31234
+Pennsylvania,Women's Street Footwear,PA,42260
+Rhode Island,Men's Apparel,RI,44466
+Rhode Island,Men's Athletic Footwear,RI,53169
+Rhode Island,Men's Street Footwear,RI,43473
+Rhode Island,Women's Apparel,RI,40872
+Rhode Island,Women's Athletic Footwear,RI,49474
+Rhode Island,Women's Street Footwear,RI,38113
+South Carolina,Men's Apparel,SC,101495
+South Carolina,Men's Athletic Footwear,SC,82848
+South Carolina,Men's Street Footwear,SC,93398
+South Carolina,Women's Apparel,SC,98409
+South Carolina,Women's Athletic Footwear,SC,100118
+South Carolina,Women's Street Footwear,SC,81674
+South Dakota,Men's Apparel,SD,31798
+South Dakota,Men's Athletic Footwear,SD,36458
+South Dakota,Men's Street Footwear,SD,54597
+South Dakota,Women's Apparel,SD,37057
+South Dakota,Women's Athletic Footwear,SD,34300
+South Dakota,Women's Street Footwear,SD,43123
+Tennessee,Men's Apparel,TN,61202
+Tennessee,Men's Athletic Footwear,TN,85991
+Tennessee,Men's Street Footwear,TN,74441
+Tennessee,Women's Apparel,TN,86481
+Tennessee,Women's Athletic Footwear,TN,71425
+Tennessee,Women's Street Footwear,TN,89238
+Texas,Men's Apparel,TX,87984
+Texas,Men's Athletic Footwear,TX,104193
+Texas,Men's Street Footwear,TX,102942
+Texas,Women's Apparel,TX,103380
+Texas,Women's Athletic Footwear,TX,71546
+Texas,Women's Street Footwear,TX,94835
+Utah,Men's Apparel,UT,33498
+Utah,Men's Athletic Footwear,UT,52186
+Utah,Men's Street Footwear,UT,50081
+Utah,Women's Apparel,UT,37425
+Utah,Women's Athletic Footwear,UT,51080
+Utah,Women's Street Footwear,UT,30694
+Vermont,Men's Apparel,VT,31256
+Vermont,Men's Athletic Footwear,VT,55109
+Vermont,Men's Street Footwear,VT,55109
+Vermont,Women's Apparel,VT,33497
+Vermont,Women's Athletic Footwear,VT,40380
+Vermont,Women's Street Footwear,VT,54905
+Virginia,Men's Apparel,VA,83153
+Virginia,Men's Athletic Footwear,VA,75788
+Virginia,Men's Street Footwear,VA,89806
+Virginia,Women's Apparel,VA,60539
+Virginia,Women's Athletic Footwear,VA,66819
+Virginia,Women's Street Footwear,VA,86218
+Washington,Men's Apparel,WA,48967
+Washington,Men's Athletic Footwear,WA,48616
+Washington,Men's Street Footwear,WA,47132
+Washington,Women's Apparel,WA,44000
+Washington,Women's Athletic Footwear,WA,36294
+Washington,Women's Street Footwear,WA,39038
+West Virginia,Men's Apparel,WV,41107
+West Virginia,Men's Athletic Footwear,WV,53045
+West Virginia,Men's Street Footwear,WV,47494
+West Virginia,Women's Apparel,WV,35845
+West Virginia,Women's Athletic Footwear,WV,46943
+West Virginia,Women's Street Footwear,WV,43204
+Wisconsin,Men's Apparel,WI,26036
+Wisconsin,Men's Athletic Footwear,WI,28532
+Wisconsin,Men's Street Footwear,WI,48173
+Wisconsin,Women's Apparel,WI,56892
+Wisconsin,Women's Athletic Footwear,WI,53511
+Wisconsin,Women's Street Footwear,WI,41580
+Wyoming,Men's Apparel,WY,50588
+Wyoming,Men's Athletic Footwear,WY,45548
+Wyoming,Men's Street Footwear,WY,58799
+Wyoming,Women's Apparel,WY,34869
+Wyoming,Women's Athletic Footwear,WY,55633
+Wyoming,Women's Street Footwear,WY,37924

@@ -1,0 +1,301 @@
+State,Retailer,state_code,TotalSales
+Alabama,amazon,AL,3555826.0
+Alabama,foot locker,AL,2509950.0
+Alabama,kohl's,AL,3180585.0
+Alabama,sports direct,AL,19616508.0
+Alabama,walmart,AL,3217890.0
+Alabama,west gear,AL,3805830.0
+Alaska,amazon,AK,15439340.0
+Alaska,foot locker,AK,3186363.0
+Alaska,kohl's,AK,2012315.0
+Alaska,sports direct,AK,930195.0
+Alaska,walmart,AK,1861845.0
+Alaska,west gear,AK,1952160.0
+Arizona,amazon,AZ,1530705.0
+Arizona,foot locker,AZ,15910426.0
+Arizona,kohl's,AZ,4601905.0
+Arizona,sports direct,AZ,1773620.0
+Arizona,walmart,AZ,1658825.0
+Arizona,west gear,AZ,1688380.0
+Arkansas,amazon,AR,2706435.0
+Arkansas,foot locker,AR,2979220.0
+Arkansas,kohl's,AR,3117900.0
+Arkansas,sports direct,AR,2661335.0
+Arkansas,walmart,AR,11165061.0
+Arkansas,west gear,AR,7820991.000000001
+California,amazon,CA,2397995.0
+California,foot locker,CA,2347813.0
+California,kohl's,CA,27798303.0
+California,sports direct,CA,1576195.0
+California,walmart,CA,2739495.0
+California,west gear,CA,35153942.0
+Colorado,amazon,CO,1709180.0
+Colorado,foot locker,CO,2181860.0
+Colorado,kohl's,CO,1201360.0
+Colorado,sports direct,CO,1669735.0
+Colorado,walmart,CO,1626150.0
+Colorado,west gear,CO,22622751.000000004
+Connecticut,amazon,CT,2688525.0
+Connecticut,foot locker,CT,5366623.0
+Connecticut,kohl's,CT,1235200.0
+Connecticut,sports direct,CT,9622520.0
+Connecticut,walmart,CT,2336455.0
+Connecticut,west gear,CT,2279325.0
+Delaware,amazon,DE,1375930.0
+Delaware,foot locker,DE,10215653.0
+Delaware,kohl's,DE,5432864.0
+Delaware,sports direct,DE,2402300.0
+Delaware,walmart,DE,1863415.0
+Delaware,west gear,DE,2543695.0
+Florida,amazon,FL,3032180.0
+Florida,foot locker,FL,13259051.0
+Florida,kohl's,FL,4742465.0
+Florida,sports direct,FL,14452226.000000002
+Florida,walmart,FL,24557789.0
+Florida,west gear,FL,21366278.0
+Georgia,amazon,GA,3427030.0
+Georgia,foot locker,GA,8138123.0
+Georgia,kohl's,GA,3552910.0
+Georgia,sports direct,GA,19619113.000000004
+Georgia,walmart,GA,3549100.0
+Georgia,west gear,GA,3373330.0
+Hawaii,amazon,HI,1311360.0
+Hawaii,foot locker,HI,14525018.0
+Hawaii,kohl's,HI,1823995.0
+Hawaii,sports direct,HI,5312321.0
+Hawaii,walmart,HI,8567183.000000002
+Hawaii,west gear,HI,2479820.0
+Idaho,amazon,ID,1532600.0
+Idaho,foot locker,ID,9333041.0
+Idaho,kohl's,ID,1321440.0
+Idaho,sports direct,ID,8014293.0
+Idaho,walmart,ID,1713950.0
+Idaho,west gear,ID,8432039.0
+Illinois,amazon,IL,1358235.0
+Illinois,foot locker,IL,11318536.0
+Illinois,kohl's,IL,1767580.0
+Illinois,sports direct,IL,2271897.0
+Illinois,walmart,IL,2355980.0
+Illinois,west gear,IL,2209815.0
+Indiana,amazon,IN,1804680.0
+Indiana,foot locker,IN,1619015.0
+Indiana,kohl's,IN,1894515.0
+Indiana,sports direct,IN,2718445.0
+Indiana,walmart,IN,1257140.0
+Indiana,west gear,IN,10430183.0
+Iowa,amazon,IA,2033595.0
+Iowa,foot locker,IA,6589320.0
+Iowa,kohl's,IA,2213315.0
+Iowa,sports direct,IA,1591890.0
+Iowa,walmart,IA,1481865.0
+Iowa,west gear,IA,4227341.0
+Kansas,amazon,KS,1740965.0
+Kansas,foot locker,KS,4990760.0
+Kansas,kohl's,KS,7957374.0
+Kansas,sports direct,KS,1488040.0
+Kansas,walmart,KS,1862270.0
+Kansas,west gear,KS,2000830.0
+Kentucky,amazon,KY,10671282.0
+Kentucky,foot locker,KY,6536151.0
+Kentucky,kohl's,KY,3929430.0
+Kentucky,sports direct,KY,4879565.0
+Kentucky,walmart,KY,4106325.0
+Kentucky,west gear,KY,3686700.0
+Louisiana,amazon,LA,3726310.0
+Louisiana,foot locker,LA,6413453.000000001
+Louisiana,kohl's,LA,3106955.0
+Louisiana,sports direct,LA,2645820.0
+Louisiana,walmart,LA,3009650.0
+Louisiana,west gear,LA,23393733.0
+Maine,amazon,ME,10946180.0
+Maine,foot locker,ME,1126305.0
+Maine,kohl's,ME,1753720.0
+Maine,sports direct,ME,1669900.0
+Maine,walmart,ME,2088535.0
+Maine,west gear,ME,2362948.0
+Maryland,amazon,MD,2554670.0
+Maryland,foot locker,MD,5278243.0
+Maryland,kohl's,MD,1942195.0
+Maryland,sports direct,MD,4622510.0
+Maryland,walmart,MD,1947810.0
+Maryland,west gear,MD,3907386.0
+Massachusetts,amazon,MA,6596020.0
+Massachusetts,foot locker,MA,1742535.0
+Massachusetts,kohl's,MA,1803670.0
+Massachusetts,sports direct,MA,9221645.0
+Massachusetts,walmart,MA,1862595.0
+Massachusetts,west gear,MA,2049115.0
+Michigan,amazon,MI,1979845.0
+Michigan,foot locker,MI,4222025.0
+Michigan,kohl's,MI,1794080.0
+Michigan,sports direct,MI,17664278.0
+Michigan,walmart,MI,1904485.0
+Michigan,west gear,MI,1618965.0
+Minnesota,amazon,MN,1692055.0
+Minnesota,foot locker,MN,9110895.0
+Minnesota,kohl's,MN,2605418.0
+Minnesota,sports direct,MN,2240740.0
+Minnesota,walmart,MN,2157130.0
+Minnesota,west gear,MN,1136685.0
+Mississippi,amazon,MS,3431115.0
+Mississippi,foot locker,MS,8131341.0
+Mississippi,kohl's,MS,2837010.0
+Mississippi,sports direct,MS,8343631.000000001
+Mississippi,walmart,MS,8776957.0
+Mississippi,west gear,MS,3604865.0
+Missouri,amazon,MO,1641105.0
+Missouri,foot locker,MO,10215242.0
+Missouri,kohl's,MO,1260930.0
+Missouri,sports direct,MO,1446155.0
+Missouri,walmart,MO,1419710.0
+Missouri,west gear,MO,3168968.0
+Montana,amazon,MT,1474205.0
+Montana,foot locker,MT,1675995.0
+Montana,kohl's,MT,16847668.0
+Montana,sports direct,MT,2686298.0
+Montana,walmart,MT,2181615.0
+Montana,west gear,MT,1289650.0
+Nebraska,amazon,NE,1697670.0
+Nebraska,foot locker,NE,6978774.0
+Nebraska,kohl's,NE,1893490.0
+Nebraska,sports direct,NE,2320709.0
+Nebraska,walmart,NE,1893905.0
+Nebraska,west gear,NE,1880250.0
+Nevada,amazon,NV,1729505.0
+Nevada,foot locker,NV,2293440.0
+Nevada,kohl's,NV,2193055.0
+Nevada,sports direct,NV,2051175.0
+Nevada,walmart,NV,1938920.0
+Nevada,west gear,NV,22429714.0
+New Hampshire,amazon,NH,12252297.0
+New Hampshire,foot locker,NH,8490740.000000002
+New Hampshire,kohl's,NH,2509920.0
+New Hampshire,sports direct,NH,2004320.0
+New Hampshire,walmart,NH,1373185.0
+New Hampshire,west gear,NH,2534000.0
+New Jersey,amazon,NJ,1791270.0
+New Jersey,foot locker,NJ,2179245.0
+New Jersey,kohl's,NJ,7776745.0
+New Jersey,sports direct,NJ,6092946.0
+New Jersey,walmart,NJ,2337490.0
+New Jersey,west gear,NJ,2167195.0
+New Mexico,amazon,NM,1065405.0
+New Mexico,foot locker,NM,2497680.0
+New Mexico,kohl's,NM,18729525.000000004
+New Mexico,sports direct,NM,4419141.0
+New Mexico,walmart,NM,2101355.0
+New Mexico,west gear,NM,1843600.0
+New York,amazon,NY,1390315.0
+New York,foot locker,NY,26827033.0
+New York,kohl's,NY,5691634.0
+New York,sports direct,NY,2962082.0
+New York,walmart,NY,15489965.0
+New York,west gear,NY,21867560.000000004
+North Carolina,amazon,NC,8303821.0
+North Carolina,foot locker,NC,3599985.0
+North Carolina,kohl's,NC,3111230.0
+North Carolina,sports direct,NC,23562210.0
+North Carolina,walmart,NC,3223945.0
+North Carolina,west gear,NC,3933280.0
+North Dakota,amazon,ND,2719345.0
+North Dakota,foot locker,ND,4352162.0
+North Dakota,kohl's,ND,2170325.0
+North Dakota,sports direct,ND,6701723.0
+North Dakota,walmart,ND,1924080.0
+North Dakota,west gear,ND,1422460.0
+Ohio,amazon,OH,19518603.0
+Ohio,foot locker,OH,2411930.0
+Ohio,kohl's,OH,1957420.0
+Ohio,sports direct,OH,2030840.0
+Ohio,walmart,OH,2037575.0
+Ohio,west gear,OH,3343400.0000000005
+Oklahoma,amazon,OK,3157985.0
+Oklahoma,foot locker,OK,3123930.0
+Oklahoma,kohl's,OK,7021305.0
+Oklahoma,sports direct,OK,3567465.0
+Oklahoma,walmart,OK,2468485.0
+Oklahoma,west gear,OK,11494014.0
+Oregon,amazon,OR,1303775.0
+Oregon,foot locker,OR,1463910.0
+Oregon,kohl's,OR,2505440.0
+Oregon,sports direct,OR,2074385.0
+Oregon,walmart,OR,2028390.0
+Oregon,west gear,OR,23134739.0
+Pennsylvania,amazon,PA,2045490.0
+Pennsylvania,foot locker,PA,11375568.0
+Pennsylvania,kohl's,PA,1329370.0
+Pennsylvania,sports direct,PA,1835405.0
+Pennsylvania,walmart,PA,1645870.0
+Pennsylvania,west gear,PA,2082896.0
+Rhode Island,amazon,RI,1609435.0
+Rhode Island,foot locker,RI,7629302.0
+Rhode Island,kohl's,RI,1579010.0
+Rhode Island,sports direct,RI,5416139.0
+Rhode Island,walmart,RI,2326115.0
+Rhode Island,west gear,RI,1975695.0
+South Carolina,amazon,SC,4131005.0
+South Carolina,foot locker,SC,28267540.000000004
+South Carolina,kohl's,SC,3230660.0
+South Carolina,sports direct,SC,8418682.0
+South Carolina,walmart,SC,4680335.0
+South Carolina,west gear,SC,4212190.0
+South Dakota,amazon,SD,2061620.0
+South Dakota,foot locker,SD,7571390.0
+South Dakota,kohl's,SD,1853250.0
+South Dakota,sports direct,SD,4210866.0
+South Dakota,walmart,SD,1661925.0
+South Dakota,west gear,SD,1651675.0
+Tennessee,amazon,TN,2685915.0
+Tennessee,foot locker,TN,3217515.0
+Tennessee,kohl's,TN,3919440.0
+Tennessee,sports direct,TN,20794885.0
+Tennessee,walmart,TN,3978885.0
+Tennessee,west gear,TN,3506840.0
+Texas,amazon,TX,3925720.0
+Texas,foot locker,TX,3239156.0
+Texas,kohl's,TX,3209600.0
+Texas,sports direct,TX,28140142.0
+Texas,walmart,TX,22576055.0
+Texas,west gear,TX,5166378.0
+Utah,amazon,UT,1644430.0
+Utah,foot locker,UT,1755610.0
+Utah,kohl's,UT,780910.0
+Utah,sports direct,UT,1219940.0
+Utah,walmart,UT,2403970.0
+Utah,west gear,UT,11901175.0
+Vermont,amazon,VT,15531498.0
+Vermont,foot locker,VT,2121340.0
+Vermont,kohl's,VT,2033545.0
+Vermont,sports direct,VT,1932575.0
+Vermont,walmart,VT,1558315.0
+Vermont,west gear,VT,2757930.0
+Virginia,amazon,VA,2767670.0
+Virginia,foot locker,VA,22229373.0
+Virginia,kohl's,VA,3678870.0
+Virginia,sports direct,VA,6122337.0
+Virginia,walmart,VA,3322100.0
+Virginia,west gear,VA,3807410.0
+Washington,amazon,WA,1363805.0
+Washington,foot locker,WA,2793998.0
+Washington,kohl's,WA,2370260.0
+Washington,sports direct,WA,1739405.0
+Washington,walmart,WA,1589250.0
+Washington,west gear,WA,27004850.000000004
+West Virginia,amazon,WV,1993310.0
+West Virginia,foot locker,WV,5686867.0
+West Virginia,kohl's,WV,2180840.0
+West Virginia,sports direct,WV,1749570.0
+West Virginia,walmart,WV,1686570.0
+West Virginia,west gear,WV,9161953.0
+Wisconsin,amazon,WI,2101995.0
+Wisconsin,foot locker,WI,1938785.0
+Wisconsin,kohl's,WI,1295790.0
+Wisconsin,sports direct,WI,2263340.0
+Wisconsin,walmart,WI,2038990.0
+Wisconsin,west gear,WI,9242544.0
+Wyoming,amazon,WY,1447900.0
+Wyoming,foot locker,WY,4269085.0
+Wyoming,kohl's,WY,19242302.0
+Wyoming,sports direct,WY,1954160.0
+Wyoming,walmart,WY,1741975.0
+Wyoming,west gear,WY,1888000.0
