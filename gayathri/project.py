@@ -20,7 +20,7 @@ st.markdown('<style>div.block-container{padding-top:2rem;}</style>',unsafe_allow
     
 def Home():
     # Load data from Excel file
-    df =pd.read_excel("C:\\gayathri\\new adidas.xlsx")
+    df =pd.read_excel("new adidas.xlsx")
 
     # Split the app layout into two columns
     col1, col2 = st.columns((2))
@@ -354,6 +354,7 @@ def sideBar():
 
 
 sideBar()
+
 
 
 
