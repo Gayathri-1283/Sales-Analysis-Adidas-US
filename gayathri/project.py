@@ -313,7 +313,7 @@ def Geomap():
 
 
 def Predict():
-    monthly_sales= pd.read_csv("C:\\gayathri\\monthly_sales.csv")
+    monthly_sales= pd.read_csv("monthly_sales.csv")
     model = Prophet()
     monthly_sales = monthly_sales.rename(columns={'Month': 'ds', 'TotalSales': 'y'})
     model.fit(monthly_sales)
@@ -354,6 +354,7 @@ def sideBar():
 
 
 sideBar()
+
 
 
 
