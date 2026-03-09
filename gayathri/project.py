@@ -20,7 +20,8 @@ st.markdown('<style>div.block-container{padding-top:2rem;}</style>',unsafe_allow
     
 def Home():
     # Load data from Excel file
-    df =pd.read_excel("new adidas.xlsx")
+    df = pd.read_excel("gayathri/new adidas.xlsx")
+    
 
     # Split the app layout into two columns
     col1, col2 = st.columns((2))
@@ -182,7 +183,7 @@ def Geomap():
     selected_option = st.selectbox('Select an option to visualize sales data', options)
     
     if selected_option == 'Total sales':
-        df = pd.read_csv("C:\\gayathri\\total_sales_by_state.csv")
+        df = pd.read_csv("gayathri/total_sales_by_state.csv")
         year_list = list(df.Year.unique())[::-1]
         selected_year = st.selectbox('Select a year', year_list)
         df_selected_year = df[df.Year == selected_year]
@@ -215,7 +216,7 @@ def Geomap():
         st.plotly_chart(choropleth, use_container_width=True)
     elif selected_option == 'Retailer wise':
         
-        df = pd.read_csv("C:\\gayathri\\total_sales_of_Retailers_by_state.csv")
+        df = pd.read_csv("gayathri/total_sales_of_Retailers_by_state.csv")
         # Find the dominant retailer in each state
         dominant_retailer_by_state = df.loc[df.groupby('State')['TotalSales'].idxmax()]
         
@@ -251,7 +252,7 @@ def Geomap():
         st.plotly_chart(fig)
         
     elif selected_option == 'Product wise':
-        df = pd.read_csv("C:\\gayathri\\Sales_by_Product.csv")
+        df = pd.read_csv("gayathri/Sales_by_Product.csv")
         # Find the dominant Product in each state
         dominant_product_by_state = df.loc[df.groupby('State')['UnitsSold'].idxmax()]
         
@@ -285,7 +286,7 @@ def Geomap():
         st.plotly_chart(fig)
     elif selected_option == 'Sales Method':
         # Load data
-        df = pd.read_csv("C:\\gayathri\\Salesmethod_by_state.csv")
+        df = pd.read_csv("gayathri/Salesmethod_by_state.csv")
 
         # Find the dominant sales method in each state
         idx = df.groupby('State')['TotalSales'].idxmax()
@@ -313,7 +314,7 @@ def Geomap():
 
 
 def Predict():
-    monthly_sales= pd.read_csv("monthly_sales.csv")
+    monthly_sales= pd.read_csv("gayathri/monthly_sales.csv")
     model = Prophet()
     monthly_sales = monthly_sales.rename(columns={'Month': 'ds', 'TotalSales': 'y'})
     model.fit(monthly_sales)
@@ -354,6 +355,7 @@ def sideBar():
 
 
 sideBar()
+
 
 
 
